@@ -1,0 +1,1 @@
+# SOLIDO-defition
