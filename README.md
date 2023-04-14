@@ -14,7 +14,6 @@ SOLID são cinco princípios da programação orientada a objetos que facilitam 
 Princípio da Responsabilidade Única — Uma classe deve ter um, e somente um, motivo para mudar.
 
 - [SRP: Exemplo ruim - 1-SRP-example.php](01-SRP-bad-example-god-class.php)
-
 - [SRP: Exemplo bom - 2-SRP-good-example](02-SRP-good-example.php)
 
 O princípio da responsabilidade única não se limita somente a classes, ele também pode ser aplicado em métodos e funções, ou seja, tudo que é responsável por executar uma ação, deve ser responsável por apenas aquilo que se propõe a fazer.
