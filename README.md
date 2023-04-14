@@ -50,6 +50,6 @@ Princípio da Segregação da Interface — Uma classe não deve ser forçada a 
 
 Princípio da Inversão de Dependência — Dependa de abstrações e não de implementações.
 
-- [DIP: Exemplo ruim 1 - 10-DIP-bad-example-1.php](10-DIP-bad-example-1.php)
-- [DIP: Exemplo ruim 2 - 10-DIP-bad-example-1.php](11-DIP-bad-example-2.php)
+- [DIP: Exemplo ruim parte 1 - 10-DIP-bad-example-1.php](10-DIP-bad-example-1.php)
+- [DIP: Exemplo ruim parte 2 - 10-DIP-bad-example-1.php](11-DIP-bad-example-2.php)
 - [DIP: Exemplo bom - 12-DIP-good-example.php](12-DIP-good-example.php)
